@@ -1,13 +1,13 @@
 body{
-    background-color: brown;
+    background-color: rgb(50, 56, 136);
 }
 h1{
-    color: aqua;
+    color: rgb(32, 94, 20);
     text-align: center;
     font-size: 60px;
 }
 p{
-    color: blueviolet;
+    color:black;
     text-align: center;
     font-size: 40px;
 }
