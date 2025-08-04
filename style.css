@@ -1,0 +1,13 @@
+body{
+    background-color: brown;
+}
+h1{
+    color: aqua;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+}
